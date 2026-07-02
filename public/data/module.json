@@ -1,0 +1,41 @@
+{
+  "id": "mod-computer-organization",
+  "slug": "module-computer-organization",
+  "title": "计算机组成原理",
+  "subtitle": "面向计算机专业408考研基础底层编程与嵌入式入门",
+  "description": "面向计算机专业学生软件工程学生准备考研408学习嵌入式操作系统体系结构和底层编程的学习者系统学习计算机硬件组成数据表示运算器存储系统指令系统CPU控制器总线I/O系统和整机工作过程的静态学习模块。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "计算机组成原理",
+    "408",
+    "CPU",
+    "存储系统",
+    "Cache",
+    "指令系统",
+    "数据通路",
+    "I/O"
+  ],
+  "estimatedHours": 170,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "🖥️",
+  "repoUrl": "https://github.com/openskill-galaxy/module-computer-organization",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 128,
+    "knowledgePoints": 682,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 319
+  }
+}
