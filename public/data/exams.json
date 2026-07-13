@@ -37,7 +37,10 @@
     "tags": [
       "计算机组成原理入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "计算机组成原理入门测试",
+    "slug": "计算机组成原理入门基础测试"
   },
   {
     "id": "co-exam-02",
@@ -77,7 +80,10 @@
     "tags": [
       "计算机系统层次结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "计算机系统层次结构测试",
+    "slug": "计算机系统层次结构基础测试"
   },
   {
     "id": "co-exam-03",
@@ -117,7 +123,10 @@
     "tags": [
       "数据表示与编码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据表示与编码测试",
+    "slug": "数据表示与编码基础测试"
   },
   {
     "id": "co-exam-04",
@@ -157,7 +166,10 @@
     "tags": [
       "定点数与浮点数"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "定点数与浮点数测试",
+    "slug": "定点数与浮点数基础测试"
   },
   {
     "id": "co-exam-05",
@@ -197,7 +209,10 @@
     "tags": [
       "运算方法与运算器"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "运算方法与运算器测试",
+    "slug": "运算方法与运算器基础测试"
   },
   {
     "id": "co-exam-06",
@@ -237,7 +252,10 @@
     "tags": [
       "存储系统基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "存储系统基础测试",
+    "slug": "存储系统基础基础测试"
   },
   {
     "id": "co-exam-07",
@@ -277,7 +295,10 @@
     "tags": [
       "Cache高速缓存"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Cache高速缓存测试",
+    "slug": "cache高速缓存基础测试"
   },
   {
     "id": "co-exam-08",
@@ -317,7 +338,10 @@
     "tags": [
       "指令系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "指令系统测试",
+    "slug": "指令系统基础测试"
   },
   {
     "id": "co-exam-09",
@@ -357,7 +381,10 @@
     "tags": [
       "CPU结构与数据通路"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CPU结构与数据通路测试",
+    "slug": "cpu结构与数据通路基础测试"
   },
   {
     "id": "co-exam-10",
@@ -397,7 +424,10 @@
     "tags": [
       "控制器与微程序控制"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "控制器与微程序控制测试",
+    "slug": "控制器与微程序控制基础测试"
   },
   {
     "id": "co-exam-11",
@@ -437,7 +467,10 @@
     "tags": [
       "总线系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "总线系统测试",
+    "slug": "总线系统基础测试"
   },
   {
     "id": "co-exam-12",
@@ -477,7 +510,10 @@
     "tags": [
       "输入输出系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "输入输出系统测试",
+    "slug": "输入输出系统基础测试"
   },
   {
     "id": "co-exam-13",
@@ -517,7 +553,10 @@
     "tags": [
       "中断DMA与外设管理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "中断DMA与外设管理测试",
+    "slug": "中断dma与外设管理基础测试"
   },
   {
     "id": "co-exam-14",
@@ -557,7 +596,10 @@
     "tags": [
       "综合题期末复习与考研基础训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合题期末复习与考研基础训练测试",
+    "slug": "综合题期末复习与考研基础训练基础测试"
   },
   {
     "id": "co-exam-15",
@@ -597,7 +639,10 @@
     "tags": [
       "计算机组成原理入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "计算机组成原理入门测试",
+    "slug": "计算机组成原理入门基础测试"
   },
   {
     "id": "co-exam-16",
@@ -637,7 +682,10 @@
     "tags": [
       "计算机系统层次结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "计算机系统层次结构测试",
+    "slug": "计算机系统层次结构基础测试"
   },
   {
     "id": "co-exam-17",
@@ -677,7 +725,10 @@
     "tags": [
       "数据表示与编码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据表示与编码测试",
+    "slug": "数据表示与编码基础测试"
   },
   {
     "id": "co-exam-18",
@@ -717,7 +768,10 @@
     "tags": [
       "定点数与浮点数"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "定点数与浮点数测试",
+    "slug": "定点数与浮点数基础测试"
   },
   {
     "id": "co-exam-19",
@@ -757,7 +811,10 @@
     "tags": [
       "运算方法与运算器"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "运算方法与运算器测试",
+    "slug": "运算方法与运算器基础测试"
   },
   {
     "id": "co-exam-20",
@@ -797,7 +854,10 @@
     "tags": [
       "存储系统基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "存储系统基础测试",
+    "slug": "存储系统基础基础测试"
   },
   {
     "id": "co-exam-21",
@@ -837,7 +897,10 @@
     "tags": [
       "Cache高速缓存"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Cache高速缓存测试",
+    "slug": "cache高速缓存基础测试"
   },
   {
     "id": "co-exam-22",
@@ -877,7 +940,10 @@
     "tags": [
       "指令系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "指令系统测试",
+    "slug": "指令系统基础测试"
   },
   {
     "id": "co-exam-23",
@@ -917,7 +983,10 @@
     "tags": [
       "CPU结构与数据通路"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CPU结构与数据通路测试",
+    "slug": "cpu结构与数据通路基础测试"
   },
   {
     "id": "co-exam-24",
@@ -957,7 +1026,10 @@
     "tags": [
       "控制器与微程序控制"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "控制器与微程序控制测试",
+    "slug": "控制器与微程序控制基础测试"
   },
   {
     "id": "co-exam-25",
@@ -997,7 +1069,10 @@
     "tags": [
       "总线系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "总线系统测试",
+    "slug": "总线系统基础测试"
   },
   {
     "id": "co-exam-26",
@@ -1037,7 +1112,10 @@
     "tags": [
       "输入输出系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "输入输出系统测试",
+    "slug": "输入输出系统基础测试"
   },
   {
     "id": "co-exam-27",
@@ -1077,7 +1155,10 @@
     "tags": [
       "中断DMA与外设管理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "中断DMA与外设管理测试",
+    "slug": "中断dma与外设管理基础测试"
   },
   {
     "id": "co-exam-28",
@@ -1117,7 +1198,10 @@
     "tags": [
       "综合题期末复习与考研基础训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合题期末复习与考研基础训练测试",
+    "slug": "综合题期末复习与考研基础训练基础测试"
   },
   {
     "id": "co-exam-29",
@@ -1157,7 +1241,10 @@
     "tags": [
       "计算机组成原理入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "计算机组成原理入门测试",
+    "slug": "计算机组成原理入门基础测试"
   },
   {
     "id": "co-exam-30",
@@ -1197,7 +1284,10 @@
     "tags": [
       "计算机系统层次结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "计算机系统层次结构测试",
+    "slug": "计算机系统层次结构基础测试"
   },
   {
     "id": "co-exam-31",
@@ -1237,7 +1327,10 @@
     "tags": [
       "数据表示与编码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据表示与编码测试",
+    "slug": "数据表示与编码基础测试"
   },
   {
     "id": "co-exam-32",
@@ -1277,7 +1370,10 @@
     "tags": [
       "定点数与浮点数"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "定点数与浮点数测试",
+    "slug": "定点数与浮点数基础测试"
   },
   {
     "id": "co-exam-33",
@@ -1317,7 +1413,10 @@
     "tags": [
       "运算方法与运算器"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "运算方法与运算器测试",
+    "slug": "运算方法与运算器基础测试"
   },
   {
     "id": "co-exam-34",
@@ -1357,7 +1456,10 @@
     "tags": [
       "存储系统基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "存储系统基础测试",
+    "slug": "存储系统基础基础测试"
   },
   {
     "id": "co-exam-35",
@@ -1397,7 +1499,10 @@
     "tags": [
       "Cache高速缓存"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Cache高速缓存测试",
+    "slug": "cache高速缓存基础测试"
   },
   {
     "id": "co-exam-36",
@@ -1437,7 +1542,10 @@
     "tags": [
       "指令系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "指令系统测试",
+    "slug": "指令系统进阶测试"
   },
   {
     "id": "co-exam-37",
@@ -1477,7 +1585,10 @@
     "tags": [
       "CPU结构与数据通路"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CPU结构与数据通路测试",
+    "slug": "cpu结构与数据通路进阶测试"
   },
   {
     "id": "co-exam-38",
@@ -1517,7 +1628,10 @@
     "tags": [
       "控制器与微程序控制"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "控制器与微程序控制测试",
+    "slug": "控制器与微程序控制进阶测试"
   },
   {
     "id": "co-exam-39",
@@ -1557,7 +1671,10 @@
     "tags": [
       "总线系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "总线系统测试",
+    "slug": "总线系统进阶测试"
   },
   {
     "id": "co-exam-40",
@@ -1597,7 +1714,10 @@
     "tags": [
       "输入输出系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "输入输出系统测试",
+    "slug": "输入输出系统进阶测试"
   },
   {
     "id": "co-exam-41",
@@ -1637,7 +1757,10 @@
     "tags": [
       "中断DMA与外设管理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "中断DMA与外设管理测试",
+    "slug": "中断dma与外设管理进阶测试"
   },
   {
     "id": "co-exam-42",
@@ -1677,7 +1800,10 @@
     "tags": [
       "综合题期末复习与考研基础训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合题期末复习与考研基础训练测试",
+    "slug": "综合题期末复习与考研基础训练进阶测试"
   },
   {
     "id": "co-exam-43",
@@ -1717,7 +1843,10 @@
     "tags": [
       "计算机组成原理入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "计算机组成原理入门测试",
+    "slug": "计算机组成原理入门进阶测试"
   },
   {
     "id": "co-exam-44",
@@ -1757,7 +1886,10 @@
     "tags": [
       "计算机系统层次结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "计算机系统层次结构测试",
+    "slug": "计算机系统层次结构进阶测试"
   },
   {
     "id": "co-exam-45",
@@ -1797,7 +1929,10 @@
     "tags": [
       "数据表示与编码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据表示与编码测试",
+    "slug": "数据表示与编码进阶测试"
   },
   {
     "id": "co-exam-46",
@@ -1837,7 +1972,10 @@
     "tags": [
       "定点数与浮点数"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "定点数与浮点数测试",
+    "slug": "定点数与浮点数进阶测试"
   },
   {
     "id": "co-exam-47",
@@ -1877,7 +2015,10 @@
     "tags": [
       "运算方法与运算器"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "运算方法与运算器测试",
+    "slug": "运算方法与运算器进阶测试"
   },
   {
     "id": "co-exam-48",
@@ -1917,7 +2058,10 @@
     "tags": [
       "存储系统基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "存储系统基础测试",
+    "slug": "存储系统基础进阶测试"
   },
   {
     "id": "co-exam-49",
@@ -1957,7 +2101,10 @@
     "tags": [
       "Cache高速缓存"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Cache高速缓存测试",
+    "slug": "cache高速缓存进阶测试"
   },
   {
     "id": "co-exam-50",
@@ -1997,7 +2144,10 @@
     "tags": [
       "指令系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "指令系统测试",
+    "slug": "指令系统进阶测试"
   },
   {
     "id": "co-exam-51",
@@ -2037,7 +2187,10 @@
     "tags": [
       "CPU结构与数据通路"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CPU结构与数据通路测试",
+    "slug": "cpu结构与数据通路进阶测试"
   },
   {
     "id": "co-exam-52",
@@ -2077,7 +2230,10 @@
     "tags": [
       "控制器与微程序控制"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "控制器与微程序控制测试",
+    "slug": "控制器与微程序控制进阶测试"
   },
   {
     "id": "co-exam-53",
@@ -2117,7 +2273,10 @@
     "tags": [
       "总线系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "总线系统测试",
+    "slug": "总线系统进阶测试"
   },
   {
     "id": "co-exam-54",
@@ -2157,7 +2316,10 @@
     "tags": [
       "输入输出系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "输入输出系统测试",
+    "slug": "输入输出系统进阶测试"
   },
   {
     "id": "co-exam-55",
@@ -2197,7 +2359,10 @@
     "tags": [
       "中断DMA与外设管理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "中断DMA与外设管理测试",
+    "slug": "中断dma与外设管理进阶测试"
   },
   {
     "id": "co-exam-56",
@@ -2237,7 +2402,10 @@
     "tags": [
       "综合题期末复习与考研基础训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合题期末复习与考研基础训练测试",
+    "slug": "综合题期末复习与考研基础训练进阶测试"
   },
   {
     "id": "co-exam-57",
@@ -2277,7 +2445,10 @@
     "tags": [
       "计算机组成原理入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "计算机组成原理入门测试",
+    "slug": "计算机组成原理入门进阶测试"
   },
   {
     "id": "co-exam-58",
@@ -2317,7 +2488,10 @@
     "tags": [
       "计算机系统层次结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "计算机系统层次结构测试",
+    "slug": "计算机系统层次结构进阶测试"
   },
   {
     "id": "co-exam-59",
@@ -2357,7 +2531,10 @@
     "tags": [
       "数据表示与编码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据表示与编码测试",
+    "slug": "数据表示与编码进阶测试"
   },
   {
     "id": "co-exam-60",
@@ -2397,7 +2574,10 @@
     "tags": [
       "定点数与浮点数"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "定点数与浮点数测试",
+    "slug": "定点数与浮点数进阶测试"
   },
   {
     "id": "co-exam-61",
@@ -2437,7 +2617,10 @@
     "tags": [
       "运算方法与运算器"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "运算方法与运算器测试",
+    "slug": "运算方法与运算器进阶测试"
   },
   {
     "id": "co-exam-62",
@@ -2477,7 +2660,10 @@
     "tags": [
       "存储系统基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "存储系统基础测试",
+    "slug": "存储系统基础进阶测试"
   },
   {
     "id": "co-exam-63",
@@ -2517,7 +2703,10 @@
     "tags": [
       "Cache高速缓存"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Cache高速缓存测试",
+    "slug": "cache高速缓存进阶测试"
   },
   {
     "id": "co-exam-64",
@@ -2557,7 +2746,10 @@
     "tags": [
       "指令系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "指令系统测试",
+    "slug": "指令系统进阶测试"
   },
   {
     "id": "co-exam-65",
@@ -2597,7 +2789,10 @@
     "tags": [
       "CPU结构与数据通路"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CPU结构与数据通路测试",
+    "slug": "cpu结构与数据通路进阶测试"
   },
   {
     "id": "co-exam-66",
@@ -2637,7 +2832,10 @@
     "tags": [
       "控制器与微程序控制"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "控制器与微程序控制测试",
+    "slug": "控制器与微程序控制综合挑战"
   },
   {
     "id": "co-exam-67",
@@ -2677,7 +2875,10 @@
     "tags": [
       "总线系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "总线系统测试",
+    "slug": "总线系统综合挑战"
   },
   {
     "id": "co-exam-68",
@@ -2717,7 +2918,10 @@
     "tags": [
       "输入输出系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "输入输出系统测试",
+    "slug": "输入输出系统综合挑战"
   },
   {
     "id": "co-exam-69",
@@ -2757,7 +2961,10 @@
     "tags": [
       "中断DMA与外设管理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "中断DMA与外设管理测试",
+    "slug": "中断dma与外设管理综合挑战"
   },
   {
     "id": "co-exam-70",
@@ -2797,7 +3004,10 @@
     "tags": [
       "综合题期末复习与考研基础训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "综合题期末复习与考研基础训练测试",
+    "slug": "综合题期末复习与考研基础训练综合挑战"
   },
   {
     "id": "co-exam-71",
@@ -2837,7 +3047,10 @@
     "tags": [
       "计算机组成原理入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "计算机组成原理入门测试",
+    "slug": "计算机组成原理入门综合挑战"
   },
   {
     "id": "co-exam-72",
@@ -2877,7 +3090,10 @@
     "tags": [
       "计算机系统层次结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "计算机系统层次结构测试",
+    "slug": "计算机系统层次结构综合挑战"
   },
   {
     "id": "co-exam-73",
@@ -2917,7 +3133,10 @@
     "tags": [
       "数据表示与编码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "数据表示与编码测试",
+    "slug": "数据表示与编码综合挑战"
   },
   {
     "id": "co-exam-74",
@@ -2957,7 +3176,10 @@
     "tags": [
       "定点数与浮点数"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "定点数与浮点数测试",
+    "slug": "定点数与浮点数综合挑战"
   },
   {
     "id": "co-exam-75",
@@ -2997,7 +3219,10 @@
     "tags": [
       "运算方法与运算器"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "运算方法与运算器测试",
+    "slug": "运算方法与运算器综合挑战"
   },
   {
     "id": "co-exam-76",
@@ -3037,7 +3262,10 @@
     "tags": [
       "存储系统基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "存储系统基础测试",
+    "slug": "存储系统基础综合挑战"
   },
   {
     "id": "co-exam-77",
@@ -3077,7 +3305,10 @@
     "tags": [
       "Cache高速缓存"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Cache高速缓存测试",
+    "slug": "cache高速缓存综合挑战"
   },
   {
     "id": "co-exam-78",
@@ -3117,7 +3348,10 @@
     "tags": [
       "指令系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "指令系统测试",
+    "slug": "指令系统综合挑战"
   },
   {
     "id": "co-exam-79",
@@ -3157,7 +3391,10 @@
     "tags": [
       "CPU结构与数据通路"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "CPU结构与数据通路测试",
+    "slug": "cpu结构与数据通路综合挑战"
   },
   {
     "id": "co-exam-80",
@@ -3197,7 +3434,10 @@
     "tags": [
       "控制器与微程序控制"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "控制器与微程序控制测试",
+    "slug": "控制器与微程序控制综合挑战"
   },
   {
     "id": "co-exam-81",
@@ -3237,7 +3477,10 @@
     "tags": [
       "总线系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "总线系统测试",
+    "slug": "总线系统综合挑战"
   },
   {
     "id": "co-exam-82",
@@ -3277,7 +3520,10 @@
     "tags": [
       "输入输出系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "输入输出系统测试",
+    "slug": "输入输出系统综合挑战"
   },
   {
     "id": "co-exam-83",
@@ -3317,7 +3563,10 @@
     "tags": [
       "中断DMA与外设管理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "中断DMA与外设管理测试",
+    "slug": "中断dma与外设管理综合挑战"
   },
   {
     "id": "co-exam-84",
@@ -3357,7 +3606,10 @@
     "tags": [
       "综合题期末复习与考研基础训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "综合题期末复习与考研基础训练测试",
+    "slug": "综合题期末复习与考研基础训练综合挑战"
   },
   {
     "id": "co-exam-85",
@@ -3397,7 +3649,10 @@
     "tags": [
       "计算机组成原理入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "计算机组成原理入门测试",
+    "slug": "计算机组成原理入门综合挑战"
   },
   {
     "id": "co-exam-86",
@@ -3437,7 +3692,10 @@
     "tags": [
       "计算机系统层次结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "计算机系统层次结构测试",
+    "slug": "计算机系统层次结构综合挑战"
   },
   {
     "id": "co-exam-87",
@@ -3477,7 +3735,10 @@
     "tags": [
       "数据表示与编码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "数据表示与编码测试",
+    "slug": "数据表示与编码综合挑战"
   },
   {
     "id": "co-exam-88",
@@ -3517,7 +3778,10 @@
     "tags": [
       "定点数与浮点数"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "定点数与浮点数测试",
+    "slug": "定点数与浮点数综合挑战"
   },
   {
     "id": "co-exam-89",
@@ -3557,7 +3821,10 @@
     "tags": [
       "运算方法与运算器"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "运算方法与运算器测试",
+    "slug": "运算方法与运算器综合挑战"
   },
   {
     "id": "co-exam-90",
@@ -3597,7 +3864,10 @@
     "tags": [
       "存储系统基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "存储系统基础测试",
+    "slug": "存储系统基础综合挑战"
   },
   {
     "id": "co-exam-91",
@@ -3637,7 +3907,10 @@
     "tags": [
       "Cache高速缓存"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Cache高速缓存测试",
+    "slug": "cache高速缓存综合挑战"
   },
   {
     "id": "co-exam-92",
@@ -3677,7 +3950,10 @@
     "tags": [
       "指令系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "指令系统测试",
+    "slug": "指令系统综合挑战"
   },
   {
     "id": "co-exam-93",
@@ -3717,7 +3993,10 @@
     "tags": [
       "CPU结构与数据通路"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "CPU结构与数据通路测试",
+    "slug": "cpu结构与数据通路综合挑战"
   },
   {
     "id": "co-exam-94",
@@ -3757,7 +4036,10 @@
     "tags": [
       "控制器与微程序控制"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "控制器与微程序控制测试",
+    "slug": "控制器与微程序控制综合挑战"
   },
   {
     "id": "co-exam-95",
@@ -3797,7 +4079,10 @@
     "tags": [
       "总线系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "总线系统测试",
+    "slug": "总线系统综合挑战"
   },
   {
     "id": "co-exam-96",
@@ -3837,7 +4122,10 @@
     "tags": [
       "输入输出系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "输入输出系统测试",
+    "slug": "输入输出系统综合挑战"
   },
   {
     "id": "co-exam-97",
@@ -3877,7 +4165,10 @@
     "tags": [
       "中断DMA与外设管理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "中断DMA与外设管理测试",
+    "slug": "中断dma与外设管理综合挑战"
   },
   {
     "id": "co-exam-98",
@@ -3917,7 +4208,10 @@
     "tags": [
       "综合题期末复习与考研基础训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "综合题期末复习与考研基础训练测试",
+    "slug": "综合题期末复习与考研基础训练综合挑战"
   },
   {
     "id": "co-exam-99",
@@ -3957,7 +4251,10 @@
     "tags": [
       "计算机组成原理入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "计算机组成原理入门测试",
+    "slug": "计算机组成原理入门综合挑战"
   },
   {
     "id": "co-exam-100",
@@ -3997,6 +4294,9 @@
     "tags": [
       "计算机系统层次结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "计算机系统层次结构测试",
+    "slug": "计算机系统层次结构综合挑战"
   }
 ]

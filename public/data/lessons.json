@@ -25,7 +25,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 冯·诺依曼结构\n\n冯·诺依曼结构的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了冯·诺依曼结构的核心知识。",
+    "knowledgePoints": [
+      "co-kp-001",
+      "co-kp-002"
+    ]
   },
   {
     "id": "co-lesson-002",
@@ -52,7 +57,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 计算机五大部件\n\n计算机五大部件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了计算机五大部件的核心知识。",
+    "knowledgePoints": [
+      "co-kp-003"
+    ]
   },
   {
     "id": "co-lesson-003",
@@ -79,7 +88,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 计算机发展历史\n\n计算机发展历史的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了计算机发展历史的核心知识。",
+    "knowledgePoints": [
+      "co-kp-004"
+    ]
   },
   {
     "id": "co-lesson-004",
@@ -106,7 +119,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 摩尔定律\n\n摩尔定律的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了摩尔定律的核心知识。",
+    "knowledgePoints": [
+      "co-kp-005"
+    ]
   },
   {
     "id": "co-lesson-005",
@@ -134,7 +151,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 计算机层次结构\n\n计算机层次结构的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了计算机层次结构的核心知识。",
+    "knowledgePoints": [
+      "co-kp-006",
+      "co-kp-007"
+    ]
   },
   {
     "id": "co-lesson-006",
@@ -161,7 +183,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指令集架构ISA\n\n指令集架构ISA的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了指令集架构ISA的核心知识。",
+    "knowledgePoints": [
+      "co-kp-008"
+    ]
   },
   {
     "id": "co-lesson-007",
@@ -188,7 +214,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微架构\n\n微架构的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了微架构的核心知识。",
+    "knowledgePoints": [
+      "co-kp-009"
+    ]
   },
   {
     "id": "co-lesson-008",
@@ -216,7 +246,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 性能公式与CPI\n\n性能公式与CPI的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了性能公式与CPI的核心知识。",
+    "knowledgePoints": [
+      "co-kp-010",
+      "co-kp-011"
+    ]
   },
   {
     "id": "co-lesson-009",
@@ -243,7 +278,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# MIPS与FLOPS\n\nMIPS与FLOPS的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了MIPS与FLOPS的核心知识。",
+    "knowledgePoints": [
+      "co-kp-012"
+    ]
   },
   {
     "id": "co-lesson-010",
@@ -270,7 +309,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Amdahl定律\n\nAmdahl定律的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了Amdahl定律的核心知识。",
+    "knowledgePoints": [
+      "co-kp-013"
+    ]
   },
   {
     "id": "co-lesson-011",
@@ -297,7 +340,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 基准程序SPEC\n\n基准程序SPEC的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了基准程序SPEC的核心知识。",
+    "knowledgePoints": [
+      "co-kp-014"
+    ]
   },
   {
     "id": "co-lesson-012",
@@ -325,7 +372,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 原码表示法\n\n原码表示法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了原码表示法的核心知识。",
+    "knowledgePoints": [
+      "co-kp-015",
+      "co-kp-016"
+    ]
   },
   {
     "id": "co-lesson-013",
@@ -352,7 +404,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 反码表示法\n\n反码表示法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了反码表示法的核心知识。",
+    "knowledgePoints": [
+      "co-kp-017"
+    ]
   },
   {
     "id": "co-lesson-014",
@@ -380,7 +436,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补码表示法\n\n补码表示法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了补码表示法的核心知识。",
+    "knowledgePoints": [
+      "co-kp-018",
+      "co-kp-019"
+    ]
   },
   {
     "id": "co-lesson-015",
@@ -407,7 +468,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 移码表示法\n\n移码表示法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了移码表示法的核心知识。",
+    "knowledgePoints": [
+      "co-kp-020"
+    ]
   },
   {
     "id": "co-lesson-016",
@@ -434,7 +499,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 定点整数表示\n\n定点整数表示的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了定点整数表示的核心知识。",
+    "knowledgePoints": [
+      "co-kp-021"
+    ]
   },
   {
     "id": "co-lesson-017",
@@ -461,7 +530,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 定点小数表示\n\n定点小数表示的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了定点小数表示的核心知识。",
+    "knowledgePoints": [
+      "co-kp-022"
+    ]
   },
   {
     "id": "co-lesson-018",
@@ -488,7 +561,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 符号扩展\n\n符号扩展的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了符号扩展的核心知识。",
+    "knowledgePoints": [
+      "co-kp-023"
+    ]
   },
   {
     "id": "co-lesson-019",
@@ -515,7 +592,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# BCD码与ASCII\n\nBCD码与ASCII的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了BCD码与ASCII的核心知识。",
+    "knowledgePoints": [
+      "co-kp-024"
+    ]
   },
   {
     "id": "co-lesson-020",
@@ -542,7 +623,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 汉字编码\n\n汉字编码的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了汉字编码的核心知识。",
+    "knowledgePoints": [
+      "co-kp-025"
+    ]
   },
   {
     "id": "co-lesson-021",
@@ -570,7 +655,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 浮点数的表示\n\n浮点数的表示的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了浮点数的表示的核心知识。",
+    "knowledgePoints": [
+      "co-kp-026",
+      "co-kp-027"
+    ]
   },
   {
     "id": "co-lesson-022",
@@ -597,7 +687,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 规格化浮点数\n\n规格化浮点数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了规格化浮点数的核心知识。",
+    "knowledgePoints": [
+      "co-kp-028"
+    ]
   },
   {
     "id": "co-lesson-023",
@@ -626,7 +720,13 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# IEEE 754标准\n\nIEEE 754标准的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了IEEE 754标准的核心知识。",
+    "knowledgePoints": [
+      "co-kp-029",
+      "co-kp-030",
+      "co-kp-031"
+    ]
   },
   {
     "id": "co-lesson-024",
@@ -653,7 +753,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 浮点数加减运算\n\n浮点数加减运算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了浮点数加减运算的核心知识。",
+    "knowledgePoints": [
+      "co-kp-032"
+    ]
   },
   {
     "id": "co-lesson-025",
@@ -680,7 +784,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 浮点数乘除运算\n\n浮点数乘除运算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了浮点数乘除运算的核心知识。",
+    "knowledgePoints": [
+      "co-kp-033"
+    ]
   },
   {
     "id": "co-lesson-026",
@@ -707,7 +815,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 溢出判断方法\n\n溢出判断方法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了溢出判断方法的核心知识。",
+    "knowledgePoints": [
+      "co-kp-034"
+    ]
   },
   {
     "id": "co-lesson-027",
@@ -734,7 +846,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 浮点数精度\n\n浮点数精度的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了浮点数精度的核心知识。",
+    "knowledgePoints": [
+      "co-kp-035"
+    ]
   },
   {
     "id": "co-lesson-028",
@@ -762,7 +878,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 加法器原理\n\n加法器原理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了加法器原理的核心知识。",
+    "knowledgePoints": [
+      "co-kp-036",
+      "co-kp-037"
+    ]
   },
   {
     "id": "co-lesson-029",
@@ -789,7 +910,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 全加器与半加器\n\n全加器与半加器的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了全加器与半加器的核心知识。",
+    "knowledgePoints": [
+      "co-kp-038"
+    ]
   },
   {
     "id": "co-lesson-030",
@@ -816,7 +941,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 超前进位加法器\n\n超前进位加法器的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了超前进位加法器的核心知识。",
+    "knowledgePoints": [
+      "co-kp-039"
+    ]
   },
   {
     "id": "co-lesson-031",
@@ -843,7 +972,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补码加减法\n\n补码加减法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了补码加减法的核心知识。",
+    "knowledgePoints": [
+      "co-kp-040"
+    ]
   },
   {
     "id": "co-lesson-032",
@@ -870,7 +1003,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 原码乘法\n\n原码乘法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了原码乘法的核心知识。",
+    "knowledgePoints": [
+      "co-kp-041"
+    ]
   },
   {
     "id": "co-lesson-033",
@@ -897,7 +1034,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补码乘法Booth\n\n补码乘法Booth的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了补码乘法Booth的核心知识。",
+    "knowledgePoints": [
+      "co-kp-042"
+    ]
   },
   {
     "id": "co-lesson-034",
@@ -924,7 +1065,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 原码除法\n\n原码除法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了原码除法的核心知识。",
+    "knowledgePoints": [
+      "co-kp-043"
+    ]
   },
   {
     "id": "co-lesson-035",
@@ -951,7 +1096,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补码加减交替除法\n\n补码加减交替除法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了补码加减交替除法的核心知识。",
+    "knowledgePoints": [
+      "co-kp-044"
+    ]
   },
   {
     "id": "co-lesson-036",
@@ -978,7 +1127,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ALU功能\n\nALU功能的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了ALU功能的核心知识。",
+    "knowledgePoints": [
+      "co-kp-045"
+    ]
   },
   {
     "id": "co-lesson-037",
@@ -1005,7 +1158,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 移位运算\n\n移位运算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了移位运算的核心知识。",
+    "knowledgePoints": [
+      "co-kp-046"
+    ]
   },
   {
     "id": "co-lesson-038",
@@ -1032,7 +1189,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 布尔运算\n\n布尔运算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了布尔运算的核心知识。",
+    "knowledgePoints": [
+      "co-kp-047"
+    ]
   },
   {
     "id": "co-lesson-039",
@@ -1060,7 +1221,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SRAM的工作原理\n\nSRAM的工作原理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了SRAM的工作原理的核心知识。",
+    "knowledgePoints": [
+      "co-kp-048",
+      "co-kp-049"
+    ]
   },
   {
     "id": "co-lesson-040",
@@ -1087,7 +1253,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DRAM的工作原理\n\nDRAM的工作原理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了DRAM的工作原理的核心知识。",
+    "knowledgePoints": [
+      "co-kp-050"
+    ]
   },
   {
     "id": "co-lesson-041",
@@ -1114,7 +1284,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DRAM刷新\n\nDRAM刷新的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了DRAM刷新的核心知识。",
+    "knowledgePoints": [
+      "co-kp-051"
+    ]
   },
   {
     "id": "co-lesson-042",
@@ -1141,7 +1315,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SDRAM与DDR\n\nSDRAM与DDR的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了SDRAM与DDR的核心知识。",
+    "knowledgePoints": [
+      "co-kp-052"
+    ]
   },
   {
     "id": "co-lesson-043",
@@ -1168,7 +1346,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ROM类型\n\nROM类型的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了ROM类型的核心知识。",
+    "knowledgePoints": [
+      "co-kp-053"
+    ]
   },
   {
     "id": "co-lesson-044",
@@ -1195,7 +1377,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Flash存储器\n\nFlash存储器的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了Flash存储器的核心知识。",
+    "knowledgePoints": [
+      "co-kp-054"
+    ]
   },
   {
     "id": "co-lesson-045",
@@ -1223,7 +1409,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 存储容量计算\n\n存储容量计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了存储容量计算的核心知识。",
+    "knowledgePoints": [
+      "co-kp-055",
+      "co-kp-056"
+    ]
   },
   {
     "id": "co-lesson-046",
@@ -1250,7 +1441,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 地址线数据线\n\n地址线数据线的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了地址线数据线的核心知识。",
+    "knowledgePoints": [
+      "co-kp-057"
+    ]
   },
   {
     "id": "co-lesson-047",
@@ -1277,7 +1472,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 存储器扩展\n\n存储器扩展的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了存储器扩展的核心知识。",
+    "knowledgePoints": [
+      "co-kp-058"
+    ]
   },
   {
     "id": "co-lesson-048",
@@ -1304,7 +1503,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多模块存储器\n\n多模块存储器的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了多模块存储器的核心知识。",
+    "knowledgePoints": [
+      "co-kp-059"
+    ]
   },
   {
     "id": "co-lesson-049",
@@ -1327,7 +1530,13 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Cache基本原理\n\nCache基本原理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了Cache基本原理的核心知识。",
+    "knowledgePoints": [
+      "co-kp-060",
+      "co-kp-061",
+      "co-kp-062"
+    ]
   },
   {
     "id": "co-lesson-050",
@@ -1348,7 +1557,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 局部性原理\n\n局部性原理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了局部性原理的核心知识。",
+    "knowledgePoints": [
+      "co-kp-063"
+    ]
   },
   {
     "id": "co-lesson-051",
@@ -1370,7 +1583,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 命中率与平均访存时间\n\n命中率与平均访存时间的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了命中率与平均访存时间的核心知识。",
+    "knowledgePoints": [
+      "co-kp-064",
+      "co-kp-065"
+    ]
   },
   {
     "id": "co-lesson-052",
@@ -1391,7 +1609,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 直接映射\n\n直接映射的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了直接映射的核心知识。",
+    "knowledgePoints": [
+      "co-kp-066"
+    ]
   },
   {
     "id": "co-lesson-053",
@@ -1412,7 +1634,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 全相联映射\n\n全相联映射的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了全相联映射的核心知识。",
+    "knowledgePoints": [
+      "co-kp-067"
+    ]
   },
   {
     "id": "co-lesson-054",
@@ -1433,7 +1659,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 组相联映射\n\n组相联映射的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了组相联映射的核心知识。",
+    "knowledgePoints": [
+      "co-kp-068"
+    ]
   },
   {
     "id": "co-lesson-055",
@@ -1454,7 +1684,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 替换算法LRU\n\n替换算法LRU的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了替换算法LRU的核心知识。",
+    "knowledgePoints": [
+      "co-kp-069"
+    ]
   },
   {
     "id": "co-lesson-056",
@@ -1475,7 +1709,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 替换算法FIFO\n\n替换算法FIFO的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了替换算法FIFO的核心知识。",
+    "knowledgePoints": [
+      "co-kp-070"
+    ]
   },
   {
     "id": "co-lesson-057",
@@ -1496,7 +1734,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 写直达与写回\n\n写直达与写回的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了写直达与写回的核心知识。",
+    "knowledgePoints": [
+      "co-kp-071"
+    ]
   },
   {
     "id": "co-lesson-058",
@@ -1517,7 +1759,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Cache容量计算\n\nCache容量计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了Cache容量计算的核心知识。",
+    "knowledgePoints": [
+      "co-kp-072"
+    ]
   },
   {
     "id": "co-lesson-059",
@@ -1545,7 +1791,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指令格式\n\n指令格式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了指令格式的核心知识。",
+    "knowledgePoints": [
+      "co-kp-073",
+      "co-kp-074"
+    ]
   },
   {
     "id": "co-lesson-060",
@@ -1572,7 +1823,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 操作码扩展技术\n\n操作码扩展技术的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了操作码扩展技术的核心知识。",
+    "knowledgePoints": [
+      "co-kp-075"
+    ]
   },
   {
     "id": "co-lesson-061",
@@ -1599,7 +1854,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 立即寻址\n\n立即寻址的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了立即寻址的核心知识。",
+    "knowledgePoints": [
+      "co-kp-076"
+    ]
   },
   {
     "id": "co-lesson-062",
@@ -1626,7 +1885,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 直接寻址\n\n直接寻址的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了直接寻址的核心知识。",
+    "knowledgePoints": [
+      "co-kp-077"
+    ]
   },
   {
     "id": "co-lesson-063",
@@ -1653,7 +1916,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 间接寻址\n\n间接寻址的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了间接寻址的核心知识。",
+    "knowledgePoints": [
+      "co-kp-078"
+    ]
   },
   {
     "id": "co-lesson-064",
@@ -1680,7 +1947,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 寄存器寻址\n\n寄存器寻址的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了寄存器寻址的核心知识。",
+    "knowledgePoints": [
+      "co-kp-079"
+    ]
   },
   {
     "id": "co-lesson-065",
@@ -1707,7 +1978,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 变址寻址\n\n变址寻址的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了变址寻址的核心知识。",
+    "knowledgePoints": [
+      "co-kp-080"
+    ]
   },
   {
     "id": "co-lesson-066",
@@ -1734,7 +2009,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 基址寻址\n\n基址寻址的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了基址寻址的核心知识。",
+    "knowledgePoints": [
+      "co-kp-081"
+    ]
   },
   {
     "id": "co-lesson-067",
@@ -1761,7 +2040,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 相对寻址\n\n相对寻址的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了相对寻址的核心知识。",
+    "knowledgePoints": [
+      "co-kp-082"
+    ]
   },
   {
     "id": "co-lesson-068",
@@ -1788,7 +2071,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 堆栈寻址\n\n堆栈寻址的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了堆栈寻址的核心知识。",
+    "knowledgePoints": [
+      "co-kp-083"
+    ]
   },
   {
     "id": "co-lesson-069",
@@ -1815,7 +2102,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# RISC与CISC\n\nRISC与CISC的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了RISC与CISC的核心知识。",
+    "knowledgePoints": [
+      "co-kp-084"
+    ]
   },
   {
     "id": "co-lesson-070",
@@ -1842,7 +2133,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指令类型\n\n指令类型的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了指令类型的核心知识。",
+    "knowledgePoints": [
+      "co-kp-085"
+    ]
   },
   {
     "id": "co-lesson-071",
@@ -1864,7 +2159,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据通路结构\n\n数据通路结构的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了数据通路结构的核心知识。",
+    "knowledgePoints": [
+      "co-kp-086",
+      "co-kp-087"
+    ]
   },
   {
     "id": "co-lesson-072",
@@ -1885,7 +2185,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 寄存器与数据流向\n\n寄存器与数据流向的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了寄存器与数据流向的核心知识。",
+    "knowledgePoints": [
+      "co-kp-088"
+    ]
   },
   {
     "id": "co-lesson-073",
@@ -1906,7 +2210,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指令周期组成\n\n指令周期组成的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了指令周期组成的核心知识。",
+    "knowledgePoints": [
+      "co-kp-089"
+    ]
   },
   {
     "id": "co-lesson-074",
@@ -1927,7 +2235,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 取指周期\n\n取指周期的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了取指周期的核心知识。",
+    "knowledgePoints": [
+      "co-kp-090"
+    ]
   },
   {
     "id": "co-lesson-075",
@@ -1948,7 +2260,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 执行周期\n\n执行周期的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了执行周期的核心知识。",
+    "knowledgePoints": [
+      "co-kp-091"
+    ]
   },
   {
     "id": "co-lesson-076",
@@ -1969,7 +2285,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 间址周期\n\n间址周期的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了间址周期的核心知识。",
+    "knowledgePoints": [
+      "co-kp-092"
+    ]
   },
   {
     "id": "co-lesson-077",
@@ -1990,7 +2310,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中断周期\n\n中断周期的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了中断周期的核心知识。",
+    "knowledgePoints": [
+      "co-kp-093"
+    ]
   },
   {
     "id": "co-lesson-078",
@@ -2011,7 +2335,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 控制信号生成\n\n控制信号生成的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了控制信号生成的核心知识。",
+    "knowledgePoints": [
+      "co-kp-094"
+    ]
   },
   {
     "id": "co-lesson-079",
@@ -2032,7 +2360,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 时序系统\n\n时序系统的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了时序系统的核心知识。",
+    "knowledgePoints": [
+      "co-kp-095"
+    ]
   },
   {
     "id": "co-lesson-080",
@@ -2060,7 +2392,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 硬布线控制器\n\n硬布线控制器的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了硬布线控制器的核心知识。",
+    "knowledgePoints": [
+      "co-kp-096",
+      "co-kp-097"
+    ]
   },
   {
     "id": "co-lesson-081",
@@ -2087,7 +2424,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 硬布线设计方法\n\n硬布线设计方法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了硬布线设计方法的核心知识。",
+    "knowledgePoints": [
+      "co-kp-098"
+    ]
   },
   {
     "id": "co-lesson-082",
@@ -2115,7 +2456,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微程序控制器\n\n微程序控制器的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了微程序控制器的核心知识。",
+    "knowledgePoints": [
+      "co-kp-099",
+      "co-kp-100"
+    ]
   },
   {
     "id": "co-lesson-083",
@@ -2142,7 +2488,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微指令格式\n\n微指令格式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了微指令格式的核心知识。",
+    "knowledgePoints": [
+      "co-kp-101"
+    ]
   },
   {
     "id": "co-lesson-084",
@@ -2169,7 +2519,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微程序与微地址\n\n微程序与微地址的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了微程序与微地址的核心知识。",
+    "knowledgePoints": [
+      "co-kp-102"
+    ]
   },
   {
     "id": "co-lesson-085",
@@ -2196,7 +2550,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 控制存储器\n\n控制存储器的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了控制存储器的核心知识。",
+    "knowledgePoints": [
+      "co-kp-103"
+    ]
   },
   {
     "id": "co-lesson-086",
@@ -2223,7 +2581,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微程序设计\n\n微程序设计的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了微程序设计的核心知识。",
+    "knowledgePoints": [
+      "co-kp-104"
+    ]
   },
   {
     "id": "co-lesson-087",
@@ -2250,7 +2612,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 水平微指令与垂直微指令\n\n水平微指令与垂直微指令的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了水平微指令与垂直微指令的核心知识。",
+    "knowledgePoints": [
+      "co-kp-105"
+    ]
   },
   {
     "id": "co-lesson-088",
@@ -2278,7 +2644,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 总线基本概念\n\n总线基本概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了总线基本概念的核心知识。",
+    "knowledgePoints": [
+      "co-kp-106",
+      "co-kp-107"
+    ]
   },
   {
     "id": "co-lesson-089",
@@ -2305,7 +2676,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 系统总线结构\n\n系统总线结构的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了系统总线结构的核心知识。",
+    "knowledgePoints": [
+      "co-kp-108"
+    ]
   },
   {
     "id": "co-lesson-090",
@@ -2332,7 +2707,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 总线仲裁方式\n\n总线仲裁方式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了总线仲裁方式的核心知识。",
+    "knowledgePoints": [
+      "co-kp-109"
+    ]
   },
   {
     "id": "co-lesson-091",
@@ -2359,7 +2738,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 集中仲裁\n\n集中仲裁的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了集中仲裁的核心知识。",
+    "knowledgePoints": [
+      "co-kp-110"
+    ]
   },
   {
     "id": "co-lesson-092",
@@ -2386,7 +2769,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分布式仲裁\n\n分布式仲裁的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了分布式仲裁的核心知识。",
+    "knowledgePoints": [
+      "co-kp-111"
+    ]
   },
   {
     "id": "co-lesson-093",
@@ -2413,7 +2800,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 同步总线通信\n\n同步总线通信的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了同步总线通信的核心知识。",
+    "knowledgePoints": [
+      "co-kp-112"
+    ]
   },
   {
     "id": "co-lesson-094",
@@ -2440,7 +2831,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 异步总线通信\n\n异步总线通信的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了异步总线通信的核心知识。",
+    "knowledgePoints": [
+      "co-kp-113"
+    ]
   },
   {
     "id": "co-lesson-095",
@@ -2467,7 +2862,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 总线标准\n\n总线标准的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了总线标准的核心知识。",
+    "knowledgePoints": [
+      "co-kp-114"
+    ]
   },
   {
     "id": "co-lesson-096",
@@ -2494,7 +2893,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 总线性能指标\n\n总线性能指标的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了总线性能指标的核心知识。",
+    "knowledgePoints": [
+      "co-kp-115"
+    ]
   },
   {
     "id": "co-lesson-097",
@@ -2522,7 +2925,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# I/O接口功能\n\nI/O接口功能的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了I/O接口功能的核心知识。",
+    "knowledgePoints": [
+      "co-kp-116",
+      "co-kp-117"
+    ]
   },
   {
     "id": "co-lesson-098",
@@ -2549,7 +2957,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# I/O端口编址\n\nI/O端口编址的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了I/O端口编址的核心知识。",
+    "knowledgePoints": [
+      "co-kp-118"
+    ]
   },
   {
     "id": "co-lesson-099",
@@ -2576,7 +2988,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 程序查询方式\n\n程序查询方式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了程序查询方式的核心知识。",
+    "knowledgePoints": [
+      "co-kp-119"
+    ]
   },
   {
     "id": "co-lesson-100",
@@ -2604,7 +3020,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中断基本概念\n\n中断基本概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了中断基本概念的核心知识。",
+    "knowledgePoints": [
+      "co-kp-120",
+      "co-kp-121"
+    ]
   },
   {
     "id": "co-lesson-101",
@@ -2631,7 +3052,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中断响应过程\n\n中断响应过程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了中断响应过程的核心知识。",
+    "knowledgePoints": [
+      "co-kp-122"
+    ]
   },
   {
     "id": "co-lesson-102",
@@ -2658,7 +3083,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中断向量\n\n中断向量的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了中断向量的核心知识。",
+    "knowledgePoints": [
+      "co-kp-123"
+    ]
   },
   {
     "id": "co-lesson-103",
@@ -2685,7 +3114,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中断优先级\n\n中断优先级的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了中断优先级的核心知识。",
+    "knowledgePoints": [
+      "co-kp-124"
+    ]
   },
   {
     "id": "co-lesson-104",
@@ -2712,7 +3145,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中断屏蔽\n\n中断屏蔽的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了中断屏蔽的核心知识。",
+    "knowledgePoints": [
+      "co-kp-125"
+    ]
   },
   {
     "id": "co-lesson-105",
@@ -2740,7 +3177,12 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DMA方式\n\nDMA方式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了DMA方式的核心知识。",
+    "knowledgePoints": [
+      "co-kp-126",
+      "co-kp-127"
+    ]
   },
   {
     "id": "co-lesson-106",
@@ -2767,7 +3209,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DMA控制器\n\nDMA控制器的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了DMA控制器的核心知识。",
+    "knowledgePoints": [
+      "co-kp-128"
+    ]
   },
   {
     "id": "co-lesson-107",
@@ -2794,7 +3240,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DMA传送过程\n\nDMA传送过程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了DMA传送过程的核心知识。",
+    "knowledgePoints": [
+      "co-kp-129"
+    ]
   },
   {
     "id": "co-lesson-108",
@@ -2815,7 +3265,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中断的完整过程\n\n中断的完整过程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了中断的完整过程的核心知识。",
+    "knowledgePoints": [
+      "co-kp-130"
+    ]
   },
   {
     "id": "co-lesson-109",
@@ -2836,7 +3290,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中断隐指令\n\n中断隐指令的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了中断隐指令的核心知识。",
+    "knowledgePoints": [
+      "co-kp-131"
+    ]
   },
   {
     "id": "co-lesson-110",
@@ -2857,7 +3315,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中断现场保护\n\n中断现场保护的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了中断现场保护的核心知识。",
+    "knowledgePoints": [
+      "co-kp-132"
+    ]
   },
   {
     "id": "co-lesson-111",
@@ -2878,7 +3340,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多重中断处理\n\n多重中断处理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了多重中断处理的核心知识。",
+    "knowledgePoints": [
+      "co-kp-133"
+    ]
   },
   {
     "id": "co-lesson-112",
@@ -2899,7 +3365,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DMA与CPU竞争\n\nDMA与CPU竞争的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了DMA与CPU竞争的核心知识。",
+    "knowledgePoints": [
+      "co-kp-134"
+    ]
   },
   {
     "id": "co-lesson-113",
@@ -2920,7 +3390,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DMA周期窃取\n\nDMA周期窃取的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了DMA周期窃取的核心知识。",
+    "knowledgePoints": [
+      "co-kp-135"
+    ]
   },
   {
     "id": "co-lesson-114",
@@ -2941,7 +3415,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 通道方式\n\n通道方式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了通道方式的核心知识。",
+    "knowledgePoints": [
+      "co-kp-136"
+    ]
   },
   {
     "id": "co-lesson-115",
@@ -2962,7 +3440,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# I/O处理机\n\nI/O处理机的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了I/O处理机的核心知识。",
+    "knowledgePoints": [
+      "co-kp-137"
+    ]
   },
   {
     "id": "co-lesson-116",
@@ -2983,7 +3465,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 外部设备控制\n\n外部设备控制的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了外部设备控制的核心知识。",
+    "knowledgePoints": [
+      "co-kp-138"
+    ]
   },
   {
     "id": "co-lesson-117",
@@ -3004,7 +3490,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据表示综合\n\n数据表示综合的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了数据表示综合的核心知识。",
+    "knowledgePoints": [
+      "co-kp-139"
+    ]
   },
   {
     "id": "co-lesson-118",
@@ -3025,7 +3515,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 运算器综合\n\n运算器综合的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了运算器综合的核心知识。",
+    "knowledgePoints": [
+      "co-kp-140"
+    ]
   },
   {
     "id": "co-lesson-119",
@@ -3046,7 +3540,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 存储器综合\n\n存储器综合的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了存储器综合的核心知识。",
+    "knowledgePoints": [
+      "co-kp-141"
+    ]
   },
   {
     "id": "co-lesson-120",
@@ -3067,7 +3565,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Cache综合\n\nCache综合的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了Cache综合的核心知识。",
+    "knowledgePoints": [
+      "co-kp-142"
+    ]
   },
   {
     "id": "co-lesson-121",
@@ -3088,7 +3590,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指令系统综合\n\n指令系统综合的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了指令系统综合的核心知识。",
+    "knowledgePoints": [
+      "co-kp-143"
+    ]
   },
   {
     "id": "co-lesson-122",
@@ -3109,7 +3615,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# CPU数据通路综合\n\nCPU数据通路综合的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了CPU数据通路综合的核心知识。",
+    "knowledgePoints": [
+      "co-kp-144"
+    ]
   },
   {
     "id": "co-lesson-123",
@@ -3130,7 +3640,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 控制器综合\n\n控制器综合的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了控制器综合的核心知识。",
+    "knowledgePoints": [
+      "co-kp-145"
+    ]
   },
   {
     "id": "co-lesson-124",
@@ -3151,7 +3665,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 总线综合\n\n总线综合的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了总线综合的核心知识。",
+    "knowledgePoints": [
+      "co-kp-146"
+    ]
   },
   {
     "id": "co-lesson-125",
@@ -3172,7 +3690,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# I/O系统综合\n\nI/O系统综合的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了I/O系统综合的核心知识。",
+    "knowledgePoints": [
+      "co-kp-147"
+    ]
   },
   {
     "id": "co-lesson-126",
@@ -3193,7 +3715,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 整机综合题\n\n整机综合题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了整机综合题的核心知识。",
+    "knowledgePoints": [
+      "co-kp-148"
+    ]
   },
   {
     "id": "co-lesson-127",
@@ -3214,7 +3740,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 408基础题型训练\n\n408基础题型训练的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了408基础题型训练的核心知识。",
+    "knowledgePoints": [
+      "co-kp-149"
+    ]
   },
   {
     "id": "co-lesson-128",
@@ -3235,7 +3765,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 期末模拟测试\n\n期末模拟测试的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了期末模拟测试的核心知识。",
+    "knowledgePoints": [
+      "co-kp-150"
+    ]
   },
   {
     "id": "co-lesson-129",
@@ -3256,7 +3790,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 性能评价指标\n\n性能评价指标的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0129"
+    ]
   },
   {
     "id": "co-lesson-130",
@@ -3277,7 +3815,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 计算机分类\n\n计算机分类的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0130"
+    ]
   },
   {
     "id": "co-lesson-131",
@@ -3298,7 +3840,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指令集架构分类\n\n指令集架构分类的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0131"
+    ]
   },
   {
     "id": "co-lesson-132",
@@ -3319,7 +3865,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微架构与ISA关系\n\n微架构与ISA关系的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0132"
+    ]
   },
   {
     "id": "co-lesson-133",
@@ -3340,7 +3890,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 奇偶校验码\n\n奇偶校验码的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0133"
+    ]
   },
   {
     "id": "co-lesson-134",
@@ -3361,7 +3915,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 海明码\n\n海明码的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0134"
+    ]
   },
   {
     "id": "co-lesson-135",
@@ -3382,7 +3940,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# CRC校验码\n\nCRC校验码的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0135"
+    ]
   },
   {
     "id": "co-lesson-136",
@@ -3403,7 +3965,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 浮点数舍入方式\n\n浮点数舍入方式的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0136"
+    ]
   },
   {
     "id": "co-lesson-137",
@@ -3424,7 +3990,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 浮点数特殊值NaNInfinity\n\n浮点数特殊值NaNInfinity的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0137"
+    ]
   },
   {
     "id": "co-lesson-138",
@@ -3445,7 +4015,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补码布斯乘法示例\n\n补码布斯乘法示例的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0138"
+    ]
   },
   {
     "id": "co-lesson-139",
@@ -3466,7 +4040,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 加减交替除法示例\n\n加减交替除法示例的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0139"
+    ]
   },
   {
     "id": "co-lesson-140",
@@ -3487,7 +4065,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 逻辑运算应用\n\n逻辑运算应用的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0140"
+    ]
   },
   {
     "id": "co-lesson-141",
@@ -3508,7 +4090,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 存储器芯片选型\n\n存储器芯片选型的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0141"
+    ]
   },
   {
     "id": "co-lesson-142",
@@ -3529,7 +4115,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 存储器与CPU连接\n\n存储器与CPU连接的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0142"
+    ]
   },
   {
     "id": "co-lesson-143",
@@ -3550,7 +4140,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多体交叉存储器\n\n多体交叉存储器的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0143"
+    ]
   },
   {
     "id": "co-lesson-144",
@@ -3571,7 +4165,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Cache缺失处理\n\nCache缺失处理的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0144"
+    ]
   },
   {
     "id": "co-lesson-145",
@@ -3592,7 +4190,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Cache容量对命中率影响\n\nCache容量对命中率影响的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0145"
+    ]
   },
   {
     "id": "co-lesson-146",
@@ -3613,7 +4215,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 三级Cache结构\n\n三级Cache结构的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0146"
+    ]
   },
   {
     "id": "co-lesson-147",
@@ -3634,7 +4240,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 定长指令格式\n\n定长指令格式的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0147"
+    ]
   },
   {
     "id": "co-lesson-148",
@@ -3655,7 +4265,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 变长指令格式\n\n变长指令格式的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0148"
+    ]
   },
   {
     "id": "co-lesson-149",
@@ -3676,7 +4290,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 操作码扩展实例\n\n操作码扩展实例的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0149"
+    ]
   },
   {
     "id": "co-lesson-150",
@@ -3697,7 +4315,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 单周期数据通路\n\n单周期数据通路的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0150"
+    ]
   },
   {
     "id": "co-lesson-151",
@@ -3718,7 +4340,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多周期数据通路\n\n多周期数据通路的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0151"
+    ]
   },
   {
     "id": "co-lesson-152",
@@ -3739,7 +4365,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 流水线数据通路\n\n流水线数据通路的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0152"
+    ]
   },
   {
     "id": "co-lesson-153",
@@ -3760,7 +4390,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微程序控制流程\n\n微程序控制流程的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0153"
+    ]
   },
   {
     "id": "co-lesson-154",
@@ -3781,7 +4415,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微指令编码方式\n\n微指令编码方式的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0154"
+    ]
   },
   {
     "id": "co-lesson-155",
@@ -3802,7 +4440,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微程序入口地址\n\n微程序入口地址的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0155"
+    ]
   },
   {
     "id": "co-lesson-156",
@@ -3823,7 +4465,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 总线标准发展\n\n总线标准发展的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0156"
+    ]
   },
   {
     "id": "co-lesson-157",
@@ -3844,7 +4490,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 总线带宽计算\n\n总线带宽计算的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0157"
+    ]
   },
   {
     "id": "co-lesson-158",
@@ -3865,7 +4515,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# I/O接口编址方式\n\nI/O接口编址方式的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0158"
+    ]
   },
   {
     "id": "co-lesson-159",
@@ -3886,7 +4540,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中断处理优先级\n\n中断处理优先级的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0159"
+    ]
   },
   {
     "id": "co-lesson-160",
@@ -3907,7 +4565,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中断嵌套处理\n\n中断嵌套处理的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0160"
+    ]
   },
   {
     "id": "co-lesson-161",
@@ -3928,7 +4590,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DMA与程序中断比较\n\nDMA与程序中断比较的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0161"
+    ]
   },
   {
     "id": "co-lesson-162",
@@ -3949,7 +4615,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DMA传送方式\n\nDMA传送方式的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0162"
+    ]
   },
   {
     "id": "co-lesson-163",
@@ -3970,7 +4640,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# I/O通道工作方式\n\nI/O通道工作方式的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0163"
+    ]
   },
   {
     "id": "co-lesson-164",
@@ -3991,7 +4665,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 外设速度匹配\n\n外设速度匹配的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0164"
+    ]
   },
   {
     "id": "co-lesson-165",
@@ -4012,7 +4690,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据表示综合题\n\n数据表示综合题的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0165"
+    ]
   },
   {
     "id": "co-lesson-166",
@@ -4033,7 +4715,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Cache综合计算\n\nCache综合计算的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0166"
+    ]
   },
   {
     "id": "co-lesson-167",
@@ -4054,7 +4740,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指令综合题\n\n指令综合题的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0167"
+    ]
   },
   {
     "id": "co-lesson-168",
@@ -4075,7 +4765,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据通路综合\n\n数据通路综合的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0168"
+    ]
   },
   {
     "id": "co-lesson-169",
@@ -4096,7 +4790,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 整机分析题\n\n整机分析题的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0169"
+    ]
   },
   {
     "id": "co-lesson-170",
@@ -4117,7 +4815,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 408真题精讲一\n\n408真题精讲一的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0170"
+    ]
   },
   {
     "id": "co-lesson-171",
@@ -4138,7 +4840,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 408真题精讲二\n\n408真题精讲二的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0171"
+    ]
   },
   {
     "id": "co-lesson-172",
@@ -4159,7 +4865,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 期末模拟测试一\n\n期末模拟测试一的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0172"
+    ]
   },
   {
     "id": "co-lesson-173",
@@ -4180,7 +4890,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 期末模拟测试二\n\n期末模拟测试二的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0173"
+    ]
   },
   {
     "id": "co-lesson-174",
@@ -4201,7 +4915,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 408高频考点\n\n408高频考点的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0174"
+    ]
   },
   {
     "id": "co-lesson-175",
@@ -4222,7 +4940,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前冲刺策略\n\n考前冲刺策略的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0175"
+    ]
   },
   {
     "id": "co-lesson-176",
@@ -4243,7 +4965,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 计算机组成名词解释\n\n计算机组成名词解释的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0176"
+    ]
   },
   {
     "id": "co-lesson-177",
@@ -4264,7 +4990,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 计算机专业方向选择\n\n计算机专业方向选择的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0177"
+    ]
   },
   {
     "id": "co-lesson-178",
@@ -4285,7 +5015,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 基准程序TPC SPEC\n\n基准程序TPC SPEC的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0178"
+    ]
   },
   {
     "id": "co-lesson-179",
@@ -4306,7 +5040,11 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ASCII码与Unicode\n\nASCII码与Unicode的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0179"
+    ]
   },
   {
     "id": "co-lesson-180",
@@ -4327,6 +5065,10 @@
       "计算机组成"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 汉字编码GB2312\n\n汉字编码GB2312的讲义内容。",
+    "knowledgePoints": [
+      "co-kp-0180"
+    ]
   }
 ]
