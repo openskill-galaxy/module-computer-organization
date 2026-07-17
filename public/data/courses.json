@@ -1,636 +1,71 @@
 [
   {
-    "id": "co-course-01",
+    "id": "mod-computer-organization-c-1",
+    "title": "计算机组成原理 架构原理与初始化",
+    "slug": "course-1",
+    "summary": "深度探索 计算机组成原理 的设计理念、运行架构以及初始化配置引导。",
     "order": 1,
-    "slug": "计算机组成原理入门",
-    "title": "计算机组成原理入门",
-    "description": "计算机发展史、冯·诺依曼结构、计算机层次模型、性能指标。",
-    "estimatedHours": 6,
     "difficulty": "easy",
-    "tags": [
-      "计算机组成原理入门"
-    ],
-    "lessonIds": [
-      "co-lesson-001",
-      "co-lesson-002",
-      "co-lesson-003",
-      "co-lesson-004"
-    ],
-    "totalLessons": 4,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解计算机硬件结构",
-      "掌握数据表示与运算",
-      "理解存储层次",
-      "具备整机分析能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "estimatedHours": 57,
     "lessons": [
-      "co-lesson-001",
-      "co-lesson-002",
-      "co-lesson-003",
-      "co-lesson-004"
+      "mod-computer-organization-l-1",
+      "mod-computer-organization-l-2"
     ],
-    "summary": "计算机发展史、冯·诺依曼结构、计算机层次模型、性能指标。"
+    "tags": [
+      "计算机组成原理",
+      "408",
+      "CPU",
+      "存储系统",
+      "Cache",
+      "指令系统",
+      "数据通路",
+      "I/O"
+    ]
   },
   {
-    "id": "co-course-02",
+    "id": "mod-computer-organization-c-2",
+    "title": "计算机组成原理 核心机制与开发实战",
+    "slug": "course-2",
+    "summary": "掌握 计算机组成原理 的核心组件、API 接口调用以及本地开发调试。",
     "order": 2,
-    "slug": "计算机系统层次结构",
-    "title": "计算机系统层次结构",
-    "description": "硬件与软件层次、指令集架构、微架构、性能评测与基准程序。",
-    "estimatedHours": 6,
     "difficulty": "easy",
-    "tags": [
-      "计算机系统层次结构"
-    ],
-    "lessonIds": [
-      "co-lesson-005",
-      "co-lesson-006",
-      "co-lesson-007",
-      "co-lesson-008",
-      "co-lesson-009",
-      "co-lesson-010",
-      "co-lesson-011"
-    ],
-    "totalLessons": 7,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解计算机硬件结构",
-      "掌握数据表示与运算",
-      "理解存储层次",
-      "具备整机分析能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "estimatedHours": 57,
     "lessons": [
-      "co-lesson-005",
-      "co-lesson-006",
-      "co-lesson-007",
-      "co-lesson-008",
-      "co-lesson-009",
-      "co-lesson-010",
-      "co-lesson-011"
+      "mod-computer-organization-l-3",
+      "mod-computer-organization-l-4"
     ],
-    "summary": "硬件与软件层次、指令集架构、微架构、性能评测与基准程序。"
+    "tags": [
+      "计算机组成原理",
+      "408",
+      "CPU",
+      "存储系统",
+      "Cache",
+      "指令系统",
+      "数据通路",
+      "I/O"
+    ]
   },
   {
-    "id": "co-course-03",
+    "id": "mod-computer-organization-c-3",
+    "title": "计算机组成原理 高级优化与生产部署",
+    "slug": "course-3",
+    "summary": "学习如何进行系统性能监控调优、高可用集群部署与数据存储。",
     "order": 3,
-    "slug": "数据表示与编码",
-    "title": "数据表示与编码",
-    "description": "原码反码补码移码、定点数与浮点数、IEEE 754标准、符号扩展。",
-    "estimatedHours": 10,
     "difficulty": "easy",
-    "tags": [
-      "数据表示与编码"
-    ],
-    "lessonIds": [
-      "co-lesson-012",
-      "co-lesson-013",
-      "co-lesson-014",
-      "co-lesson-015",
-      "co-lesson-016",
-      "co-lesson-017",
-      "co-lesson-018",
-      "co-lesson-019",
-      "co-lesson-020"
-    ],
-    "totalLessons": 9,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解计算机硬件结构",
-      "掌握数据表示与运算",
-      "理解存储层次",
-      "具备整机分析能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "estimatedHours": 57,
     "lessons": [
-      "co-lesson-012",
-      "co-lesson-013",
-      "co-lesson-014",
-      "co-lesson-015",
-      "co-lesson-016",
-      "co-lesson-017",
-      "co-lesson-018",
-      "co-lesson-019",
-      "co-lesson-020"
+      "mod-computer-organization-l-5",
+      "mod-computer-organization-l-6"
     ],
-    "summary": "原码反码补码移码、定点数与浮点数、IEEE 754标准、符号扩展。"
-  },
-  {
-    "id": "co-course-04",
-    "order": 4,
-    "slug": "定点数与浮点数",
-    "title": "定点数与浮点数",
-    "description": "定点小数定点整数、浮点数规格化、IEEE 754运算、溢出判断。",
-    "estimatedHours": 10,
-    "difficulty": "medium",
     "tags": [
-      "定点数与浮点数"
-    ],
-    "lessonIds": [
-      "co-lesson-021",
-      "co-lesson-022",
-      "co-lesson-023",
-      "co-lesson-024",
-      "co-lesson-025",
-      "co-lesson-026",
-      "co-lesson-027"
-    ],
-    "totalLessons": 7,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解计算机硬件结构",
-      "掌握数据表示与运算",
-      "理解存储层次",
-      "具备整机分析能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "co-lesson-021",
-      "co-lesson-022",
-      "co-lesson-023",
-      "co-lesson-024",
-      "co-lesson-025",
-      "co-lesson-026",
-      "co-lesson-027"
-    ],
-    "summary": "定点小数定点整数、浮点数规格化、IEEE 754运算、溢出判断。"
-  },
-  {
-    "id": "co-course-05",
-    "order": 5,
-    "slug": "运算方法与运算器",
-    "title": "运算方法与运算器",
-    "description": "加减乘除运算、ALU、加法器、移位器、布尔运算。",
-    "estimatedHours": 12,
-    "difficulty": "medium",
-    "tags": [
-      "运算方法与运算器"
-    ],
-    "lessonIds": [
-      "co-lesson-028",
-      "co-lesson-029",
-      "co-lesson-030",
-      "co-lesson-031",
-      "co-lesson-032",
-      "co-lesson-033",
-      "co-lesson-034",
-      "co-lesson-035",
-      "co-lesson-036",
-      "co-lesson-037",
-      "co-lesson-038"
-    ],
-    "totalLessons": 11,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解计算机硬件结构",
-      "掌握数据表示与运算",
-      "理解存储层次",
-      "具备整机分析能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "co-lesson-028",
-      "co-lesson-029",
-      "co-lesson-030",
-      "co-lesson-031",
-      "co-lesson-032",
-      "co-lesson-033",
-      "co-lesson-034",
-      "co-lesson-035",
-      "co-lesson-036",
-      "co-lesson-037",
-      "co-lesson-038"
-    ],
-    "summary": "加减乘除运算、ALU、加法器、移位器、布尔运算。"
-  },
-  {
-    "id": "co-course-06",
-    "order": 6,
-    "slug": "存储系统基础",
-    "title": "存储系统基础",
-    "description": "存储器分类、SRAM、DRAM、ROM、存储器扩展、容量计算。",
-    "estimatedHours": 12,
-    "difficulty": "easy",
-    "tags": [
-      "存储系统基础"
-    ],
-    "lessonIds": [
-      "co-lesson-039",
-      "co-lesson-040",
-      "co-lesson-041",
-      "co-lesson-042",
-      "co-lesson-043",
-      "co-lesson-044",
-      "co-lesson-045",
-      "co-lesson-046",
-      "co-lesson-047",
-      "co-lesson-048"
-    ],
-    "totalLessons": 10,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解计算机硬件结构",
-      "掌握数据表示与运算",
-      "理解存储层次",
-      "具备整机分析能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "co-lesson-039",
-      "co-lesson-040",
-      "co-lesson-041",
-      "co-lesson-042",
-      "co-lesson-043",
-      "co-lesson-044",
-      "co-lesson-045",
-      "co-lesson-046",
-      "co-lesson-047",
-      "co-lesson-048"
-    ],
-    "summary": "存储器分类、SRAM、DRAM、ROM、存储器扩展、容量计算。"
-  },
-  {
-    "id": "co-course-07",
-    "order": 7,
-    "slug": "Cache高速缓存",
-    "title": "Cache 高速缓存",
-    "description": "Cache 基本原理、映射方式、替换算法、写策略、命中率计算。",
-    "estimatedHours": 14,
-    "difficulty": "medium",
-    "tags": [
-      "Cache 高速缓存"
-    ],
-    "lessonIds": [
-      "co-lesson-049",
-      "co-lesson-050",
-      "co-lesson-051",
-      "co-lesson-052",
-      "co-lesson-053",
-      "co-lesson-054",
-      "co-lesson-055",
-      "co-lesson-056",
-      "co-lesson-057",
-      "co-lesson-058"
-    ],
-    "totalLessons": 10,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解计算机硬件结构",
-      "掌握数据表示与运算",
-      "理解存储层次",
-      "具备整机分析能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "co-lesson-049",
-      "co-lesson-050",
-      "co-lesson-051",
-      "co-lesson-052",
-      "co-lesson-053",
-      "co-lesson-054",
-      "co-lesson-055",
-      "co-lesson-056",
-      "co-lesson-057",
-      "co-lesson-058"
-    ],
-    "summary": "Cache 基本原理、映射方式、替换算法、写策略、命中率计算。"
-  },
-  {
-    "id": "co-course-08",
-    "order": 8,
-    "slug": "指令系统",
-    "title": "指令系统",
-    "description": "指令格式、操作码扩展、寻址方式、RISC与CISC、指令类型。",
-    "estimatedHours": 14,
-    "difficulty": "hard",
-    "tags": [
-      "指令系统"
-    ],
-    "lessonIds": [
-      "co-lesson-059",
-      "co-lesson-060",
-      "co-lesson-061",
-      "co-lesson-062",
-      "co-lesson-063",
-      "co-lesson-064",
-      "co-lesson-065",
-      "co-lesson-066",
-      "co-lesson-067",
-      "co-lesson-068",
-      "co-lesson-069",
-      "co-lesson-070"
-    ],
-    "totalLessons": 12,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解计算机硬件结构",
-      "掌握数据表示与运算",
-      "理解存储层次",
-      "具备整机分析能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "co-lesson-059",
-      "co-lesson-060",
-      "co-lesson-061",
-      "co-lesson-062",
-      "co-lesson-063",
-      "co-lesson-064",
-      "co-lesson-065",
-      "co-lesson-066",
-      "co-lesson-067",
-      "co-lesson-068",
-      "co-lesson-069",
-      "co-lesson-070"
-    ],
-    "summary": "指令格式、操作码扩展、寻址方式、RISC与CISC、指令类型。"
-  },
-  {
-    "id": "co-course-09",
-    "order": 9,
-    "slug": "CPU结构与数据通路",
-    "title": "CPU 结构与数据通路",
-    "description": "CPU 数据通路、寄存器组、指令周期、控制信号、时序系统。",
-    "estimatedHours": 14,
-    "difficulty": "hard",
-    "tags": [
-      "CPU 结构与数据通路"
-    ],
-    "lessonIds": [
-      "co-lesson-071",
-      "co-lesson-072",
-      "co-lesson-073",
-      "co-lesson-074",
-      "co-lesson-075",
-      "co-lesson-076",
-      "co-lesson-077",
-      "co-lesson-078",
-      "co-lesson-079"
-    ],
-    "totalLessons": 9,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解计算机硬件结构",
-      "掌握数据表示与运算",
-      "理解存储层次",
-      "具备整机分析能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "co-lesson-071",
-      "co-lesson-072",
-      "co-lesson-073",
-      "co-lesson-074",
-      "co-lesson-075",
-      "co-lesson-076",
-      "co-lesson-077",
-      "co-lesson-078",
-      "co-lesson-079"
-    ],
-    "summary": "CPU 数据通路、寄存器组、指令周期、控制信号、时序系统。"
-  },
-  {
-    "id": "co-course-10",
-    "order": 10,
-    "slug": "控制器与微程序控制",
-    "title": "控制器与微程序控制",
-    "description": "硬布线控制器、微程序控制器、微指令、控制存储器、微程序设计。",
-    "estimatedHours": 12,
-    "difficulty": "hard",
-    "tags": [
-      "控制器与微程序控制"
-    ],
-    "lessonIds": [
-      "co-lesson-080",
-      "co-lesson-081",
-      "co-lesson-082",
-      "co-lesson-083",
-      "co-lesson-084",
-      "co-lesson-085",
-      "co-lesson-086",
-      "co-lesson-087"
-    ],
-    "totalLessons": 8,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解计算机硬件结构",
-      "掌握数据表示与运算",
-      "理解存储层次",
-      "具备整机分析能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "co-lesson-080",
-      "co-lesson-081",
-      "co-lesson-082",
-      "co-lesson-083",
-      "co-lesson-084",
-      "co-lesson-085",
-      "co-lesson-086",
-      "co-lesson-087"
-    ],
-    "summary": "硬布线控制器、微程序控制器、微指令、控制存储器、微程序设计。"
-  },
-  {
-    "id": "co-course-11",
-    "order": 11,
-    "slug": "总线系统",
-    "title": "总线系统",
-    "description": "总线结构、总线仲裁、同步异步通信、总线标准、总线性能。",
-    "estimatedHours": 10,
-    "difficulty": "medium",
-    "tags": [
-      "总线系统"
-    ],
-    "lessonIds": [
-      "co-lesson-088",
-      "co-lesson-089",
-      "co-lesson-090",
-      "co-lesson-091",
-      "co-lesson-092",
-      "co-lesson-093",
-      "co-lesson-094",
-      "co-lesson-095",
-      "co-lesson-096"
-    ],
-    "totalLessons": 9,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解计算机硬件结构",
-      "掌握数据表示与运算",
-      "理解存储层次",
-      "具备整机分析能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "co-lesson-088",
-      "co-lesson-089",
-      "co-lesson-090",
-      "co-lesson-091",
-      "co-lesson-092",
-      "co-lesson-093",
-      "co-lesson-094",
-      "co-lesson-095",
-      "co-lesson-096"
-    ],
-    "summary": "总线结构、总线仲裁、同步异步通信、总线标准、总线性能。"
-  },
-  {
-    "id": "co-course-12",
-    "order": 12,
-    "slug": "输入输出系统",
-    "title": "输入输出系统",
-    "description": "I/O 接口、程序查询方式、中断方式、DMA 方式、I/O 处理机。",
-    "estimatedHours": 14,
-    "difficulty": "hard",
-    "tags": [
-      "输入输出系统"
-    ],
-    "lessonIds": [
-      "co-lesson-097",
-      "co-lesson-098",
-      "co-lesson-099",
-      "co-lesson-100",
-      "co-lesson-101",
-      "co-lesson-102",
-      "co-lesson-103",
-      "co-lesson-104",
-      "co-lesson-105",
-      "co-lesson-106",
-      "co-lesson-107"
-    ],
-    "totalLessons": 11,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解计算机硬件结构",
-      "掌握数据表示与运算",
-      "理解存储层次",
-      "具备整机分析能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "co-lesson-097",
-      "co-lesson-098",
-      "co-lesson-099",
-      "co-lesson-100",
-      "co-lesson-101",
-      "co-lesson-102",
-      "co-lesson-103",
-      "co-lesson-104",
-      "co-lesson-105",
-      "co-lesson-106",
-      "co-lesson-107"
-    ],
-    "summary": "I/O 接口、程序查询方式、中断方式、DMA 方式、I/O 处理机。"
-  },
-  {
-    "id": "co-course-13",
-    "order": 13,
-    "slug": "中断DMA与外设管理",
-    "title": "中断、DMA 与外设管理",
-    "description": "中断响应、中断优先级、DMA 传送、外设控制、系统整机工作。",
-    "estimatedHours": 10,
-    "difficulty": "hard",
-    "tags": [
-      "中断、DMA 与外设管理"
-    ],
-    "lessonIds": [
-      "co-lesson-108",
-      "co-lesson-109",
-      "co-lesson-110",
-      "co-lesson-111",
-      "co-lesson-112",
-      "co-lesson-113",
-      "co-lesson-114",
-      "co-lesson-115",
-      "co-lesson-116"
-    ],
-    "totalLessons": 9,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解计算机硬件结构",
-      "掌握数据表示与运算",
-      "理解存储层次",
-      "具备整机分析能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "co-lesson-108",
-      "co-lesson-109",
-      "co-lesson-110",
-      "co-lesson-111",
-      "co-lesson-112",
-      "co-lesson-113",
-      "co-lesson-114",
-      "co-lesson-115",
-      "co-lesson-116"
-    ],
-    "summary": "中断响应、中断优先级、DMA 传送、外设控制、系统整机工作。"
-  },
-  {
-    "id": "co-course-14",
-    "order": 14,
-    "slug": "综合题期末复习与考研基础训练",
-    "title": "综合题、期末复习与考研基础训练",
-    "description": "知识点串联、经典题精讲、408真题风格训练、综合测试。",
-    "estimatedHours": 12,
-    "difficulty": "hard",
-    "tags": [
-      "综合题、期末复习与考研基础训练"
-    ],
-    "lessonIds": [
-      "co-lesson-117",
-      "co-lesson-118",
-      "co-lesson-119",
-      "co-lesson-120",
-      "co-lesson-121",
-      "co-lesson-122",
-      "co-lesson-123",
-      "co-lesson-124",
-      "co-lesson-125",
-      "co-lesson-126",
-      "co-lesson-127",
-      "co-lesson-128"
-    ],
-    "totalLessons": 12,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解计算机硬件结构",
-      "掌握数据表示与运算",
-      "理解存储层次",
-      "具备整机分析能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "co-lesson-117",
-      "co-lesson-118",
-      "co-lesson-119",
-      "co-lesson-120",
-      "co-lesson-121",
-      "co-lesson-122",
-      "co-lesson-123",
-      "co-lesson-124",
-      "co-lesson-125",
-      "co-lesson-126",
-      "co-lesson-127",
-      "co-lesson-128"
-    ],
-    "summary": "知识点串联、经典题精讲、408真题风格训练、综合测试。"
+      "计算机组成原理",
+      "408",
+      "CPU",
+      "存储系统",
+      "Cache",
+      "指令系统",
+      "数据通路",
+      "I/O"
+    ]
   }
 ]
