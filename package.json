@@ -1,8 +1,8 @@
 {
-  "name": "openskill-module-computer-organization",
+  "name": "openskill-module-template",
   "version": "1.0.0",
   "private": true,
-  "description": "OpenSkill Galaxy 计算机组成原理模块：数据表示、运算器、存储系统、指令系统、CPU、控制器、总线与 I/O 训练。",
+  "description": "OpenSkill Galaxy reusable static learning module template.",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,11 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "appwrite": "^26.2.0",
+    "fuse.js": "^7.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.2",
-    "zustand": "^4.5.5",
-    "fuse.js": "^7.0.0"
+    "zustand": "^4.5.5"
   },
   "devDependencies": {
     "@types/node": "^22.5.0",
